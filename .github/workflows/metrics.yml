@@ -8,7 +8,7 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 5
     steps:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
