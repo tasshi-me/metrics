@@ -11,7 +11,7 @@ jobs:
     timeout-minutes: 20
     steps:
       # See action.yml for all options
-      - uses: lowlighter/metrics@latest
+      - uses: mshrtsr/metrics-1@latest
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
