@@ -153,11 +153,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="311.9228003495889" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="311.9228003495889" y="0" width="108.75486615687002" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="420.6776665064589" y="0" width="14.706694840285982" height="8" fill="#222c37"/>
-                    <rect mask="url(#languages-bar)" x="435.38436134674487" y="0" width="14.130889325123812" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="449.51525067186867" y="0" width="10.484749328131294" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="311.89468539221343" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="311.89468539221343" y="0" width="108.78652540702826" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="420.6812107992417" y="0" width="14.705369261975882" height="8" fill="#222c37"/>
+                    <rect mask="url(#languages-bar)" x="435.38658006121756" y="0" width="14.129615646666812" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="449.5161957078844" y="0" width="10.48380429211558" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1214,7 +1214,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Sept 2023, 07:03:46  with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 15 Sept 2023, 08:04:29  with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
